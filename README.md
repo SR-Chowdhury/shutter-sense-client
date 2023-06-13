@@ -1,7 +1,8 @@
 # Shutter Sense [MERN Stack Project]
->> Live Link: https://shutter-sense.web.app/
-> Key Features:
->> * Login Registrion, Social Login using Firebase Auth
+> Live Link: https://shutter-sense.web.app/
+
+Key Features:
+>> * Login Registrion and Social Login using Firebase Auth
 >> * Use Axios Library
 >> * Use Transtck Query | React Query
 >> * JWt used for Authentication
