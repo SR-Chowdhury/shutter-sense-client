@@ -1,0 +1,10 @@
+/* Mobile devices */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .smallDeviceHeader {
+        display: block;
+        height: 40vh;
+        background-image: url('../../assets//image/banner_small_device.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    } 
+}

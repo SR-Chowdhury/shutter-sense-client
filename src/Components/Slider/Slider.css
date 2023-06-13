@@ -1,0 +1,28 @@
+.carousel .thumbs-wrapper {
+    text-align: center;
+}
+
+.carousel .carousel-status {
+    bottom: 0 !important;
+    top: auto;
+}
+
+.carousel .slide {
+    height: 100vh;
+}
+
+.shutter_slider_caption {
+    border: 1px solid #f58025;
+    border-radius: 200px 0px 200px 200px;
+}
+
+.shutter_slider_caption_rtl {
+    border-radius: 0px 200px 200px 200px;
+}
+
+/* Mobile devices */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .sliderSecion {
+        display: none;
+    }
+}

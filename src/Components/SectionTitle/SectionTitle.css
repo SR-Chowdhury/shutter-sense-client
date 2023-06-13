@@ -1,0 +1,13 @@
+/* Mobile devices */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .sectionTitle {
+        margin-top: 0px;
+        padding-top: 44px;
+    }
+    .sectionTitle h2 {
+        font-size: 24px;
+    }
+    .sectionTitle p {
+        display: none;
+    }
+}
